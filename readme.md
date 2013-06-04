@@ -1,7 +1,8 @@
 Chart.js
 =======
-*Simple HTML5 Charts using the canvas element* [chartjs.org](http://www.chartjs.org)
+Fork of: *Simple HTML5 Charts using the canvas element* [chartjs.org](http://www.chartjs.org)
 
+Sunburst Partitions charts added
 
 Documentation
 -------
